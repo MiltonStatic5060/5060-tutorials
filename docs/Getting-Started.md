@@ -1,4 +1,4 @@
-## [Click here if  you cant figure out which to start with](https://github.com/MiltonStatic5060/5060-tutorials/wiki/FAQ#which-programming-style-should-i-use)
+## [Click here if  you cant figure out which to start with](/5060-tutorials/FAQ#which-programming-style-should-i-use)
 
 # For Normal Programmers (Can be done on any computer)
 Maybe learn Java first, but you don't need to (we'll try to cover that)
@@ -20,9 +20,9 @@ or
 clone our [ftc_app git repo](https://github.com/MiltonStatic5060/ftc_app)  
 
 **You now have the tools for either:**  
-[Our Robot Crash Course](https://github.com/MiltonStatic5060/5060-tutorials/wiki/Writing-Code#top)  
+[Our Robot Crash Course](/5060-tutorials/Writing-Code#top)  
 or  
-[Our Java Crash Course](https://github.com/MiltonStatic5060/5060-tutorials/wiki/How-To-Java)
+[Our Java Crash Course](/5060-tutorials/How-To-Java)
 
 # For Block Programmers (Must be setup at the club first)
 (kinda like [Scratch](https://scratch.mit.edu/))

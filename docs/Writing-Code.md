@@ -1,7 +1,7 @@
 We use a programming language, **Java**  
 **Java** is an object-oriented, statically-typed language. (not important)
 
-[Click Here For A Java Crash Course](https://github.com/MiltonStatic5060/5060-tutorials/wiki/How-To-Java)
+[Click Here For A Java Crash Course](/5060-tutorials/How-To-Java)
   
 You must use and make **Variables** and **Functions**.    
 - **Variables** represent motors, servos, and sensors on robot.  
@@ -86,7 +86,7 @@ We activate individual robot devices, motors, servos, sensors, etc.
        motorLeft.setMode(RUN_WITHOUT_ENCODERS);
        //Or we can set some modes
 
-Go to the [Device Types](https://github.com/MiltonStatic5060/5060-tutorials/wiki/Device-Types) page to learn more about which functions can be run during init
+Go to the [Device Types](/5060-tutorials/Device-Types) page to learn more about which functions can be run during init
 
 # Loop Section
 The functions in this section run continuously when the robot starts.  Functions set the power of motors, the position of servos, or retrieve the data from sensors.  One can change or use variables that store data as well. 
@@ -110,6 +110,6 @@ Conditionals say that commmands run when a game controller button is pushed. Tha
         }
     }
 
-Go to the [Device Types](https://github.com/MiltonStatic5060/5060-tutorials/wiki/Device-Types) page to learn more about which functions can be run during loop  
+Go to the [Device Types](/5060-tutorials/Device-Types) page to learn more about which functions can be run during loop  
 
-[Back to the Top](https://github.com/MiltonStatic5060/5060-tutorials/wiki/Writing-Code#top)
+[Back to the Top](/5060-tutorials/Writing-Code#top)
