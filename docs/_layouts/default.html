@@ -27,8 +27,9 @@
       <div id="main">
         <ul>
           <li><a href="/5060-tutorials/index">Home</a></li>
-          <li><a href="/5060-tutorials/index">Home</a></li>
-          <li><a href="/5060-tutorials/index">Home</a></li>
+          <li><a href="/5060-tutorials/Getting-Started">Getting Started</a></li>
+          <li><a href="/5060-tutorials/How-To-Java">Learn Java</a></li>
+          <li><a href="/5060-tutorials/Writing-Code">Robot Coding</a></li>
         </ul>
       </div>
       {{ content }}
@@ -54,11 +55,15 @@
     {% endif %}
   </body>
   <style>
+    #main div {
+      border-radius:5px;
+    }
+  
     #main ul {
       list-style-type: none;
       margin: 0;
       padding: 0;
-      overflow: hidden;
+      overflow: scroll;
       background-color: #158d63;
     }
 
