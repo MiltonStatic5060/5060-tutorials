@@ -7,7 +7,7 @@ This is the [official code](https://github.com/ftctechnh/ftc_app) that they post
 
 We made a copy of the [official code](https://github.com/MiltonStatic5060/ftc_app) (totally legal!) and we have our own simple-ish ways of building our Android apps.
 
-[Click here to get started](https://github.com/MiltonStatic5060/5060-tutorials/wiki/Getting-Started)
+[Click here to get started](../Getting-Started)
 
 Btw, the original documentation, the javadoc, is available [here](https://miltonstatic5060.github.io/5060-tutorials/index.html) in case you wanted the original stuff.
 
