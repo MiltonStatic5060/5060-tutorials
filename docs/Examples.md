@@ -2,7 +2,7 @@
     <summary>
         DcMotor 1 - First Usage
     </summary>
-
+    <pre><code>
         public class MotorTest extends OpMode {
             DcMotor motor1;
             public void init(){
@@ -16,12 +16,13 @@
                 }
             }
         } 
+    </code></pre>
 </details>
 <details>
     <summary>
         DcMotor 2 - Simple Driving
     </summary>
-
+    <pre><code>
         public class MotorTest extends OpMode {
             DcMotor motorLeft;
             DcMotor motorRight;
@@ -48,12 +49,13 @@
                 //motorRight.setPower(right);
             }
         }
+    </code></pre>
 </details>
 <details>
     <summary>
         DcMotor 3 - Advanced Four Wheel Driving
     </summary>
-
+    <pre><code>
         public class SuperDriving extends OpMode {
             DcMotor leftFront;
             DcMotor leftBack;
@@ -96,4 +98,5 @@
                 rightBack.setPower(rightB);
             }
         }
+    </code></pre>
 </details>
