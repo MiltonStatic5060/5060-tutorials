@@ -28,7 +28,7 @@ or
 (kinda like [Scratch](https://scratch.mit.edu/))
 
 **Get two Android Phones from the club room. (we'll need to make sure they're good phones)**  
-Install [this apk application](https://github.com/ftctechnh/ftc_app/releases/download/v3.1_fixed/FtcRobotController-release.apk) on the phone.  
+Install [this apk application](https://github.com/ftctechnh/ftc_app/releases/download/v3.4/FtcRobotController-release.apk) on the phone.  
 Install [this apk app]() on the other one.
 
 **Get the robot.**
